@@ -26,4 +26,4 @@ function gumInit() {
 
 gumInit();
 
-//somechanges
+//somechanges commented
